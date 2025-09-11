@@ -2,7 +2,7 @@
 
 ## Tutorials: Learn SQL step by step
 
-### 0 SELECT basics
+### SELECT basics
 
 #### 1. Introducing the world table of countries
 Modify it to show the population of Germany
